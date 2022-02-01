@@ -1,5 +1,5 @@
-## 主仓库地址: https://github.com/zero205/JD_tencent_scf/tree/main
-**群内上翻置顶查看22年云函数收费政策**
+## [主仓库地址](https://github.com/zero205/JD_tencent_scf/tree/main) 
+**[群内](https://t.me/jd_zero205_tz)上翻置顶查看22年云函数收费政策**
 [年包1](https://curl.qcloud.com/66VpPsEw)
 [年包2](https://curl.qcloud.com/ECJ7Mxgy)
 [月包](https://curl.qcloud.com/xcRSXNnU)
