@@ -1,8 +1,11 @@
 ## [主仓库地址](https://github.com/zero205/JD_tencent_scf/tree/main) 
-**[群内](https://t.me/jd_zero205_tz)上翻置顶查看22年云函数收费政策.不需要使用云函数请在面板删除函数,并删除自己的github私库**
+**[群内](https://t.me/jd_zero205_tz)上翻置顶查看22年云函数收费政策.**
+
 [年包1](https://curl.qcloud.com/66VpPsEw)
 [年包2](https://curl.qcloud.com/ECJ7Mxgy)
 [月包](https://curl.qcloud.com/xcRSXNnU)
+
+**不需要使用云函数请在面板删除函数,并删除自己的github私库**
 ## 为了您的数据安全,仓库必须为私有!!!
 ## 配置文件部署方式说明:
 1. 需要配合配置文件分支config使用.(请运行对应action获取分支,获取后点击左上方 main 来切换分支.)
